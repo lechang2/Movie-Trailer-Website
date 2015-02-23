@@ -11,7 +11,7 @@ incredibles_youtube='https://www.youtube.com/watch?v=1LASc8ewLaw'
 incredibles_poster='http://img3.wikia.nocookie.net/__cb20100622151355/pixar/images/4/44/Movie_poster_the_incredibles.jpg'
 incredibles=media.Movie('The Incredibles',incredibles_storyline,incredibles_poster,incredibles_youtube)
 
-johnwick_storyline='The retired killer gets his revenge against the ones that hurt his loved ones.'
+johnwick_storyline='The retired killer who gets his revenge against the ones that hurt his loved ones.'
 johnwick_youtube='https://www.youtube.com/watch?v=2AUmvWm5ZDQ'
 johnwick_poster='http://i.imgur.com/nFtglna.jpg'
 johnwick=media.Movie('John Wick',johnwick_storyline,johnwick_poster,johnwick_youtube)
